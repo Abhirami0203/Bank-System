@@ -1,0 +1,2 @@
+This Python and MySQL project implements a banking system where staff have the authority to create accounts for users. Once an account is created by staff, users can log in using their provided credentials to 
+access functionalities such as depositing, withdrawing funds,and viewing transaction history.Staff,in addition to these functionalities, have the privilege to view transaction details, and edit user profiles.
